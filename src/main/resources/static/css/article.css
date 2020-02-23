@@ -1,0 +1,14 @@
+.article-title {
+    display: inline;
+    font-size: large;
+    padding-left: 1%;
+    padding-top: 4px;
+}
+.article-title-pointer {
+    cursor: pointer;
+}
+
+.article-info {
+    float: right;
+    padding-right: 3%;
+}
